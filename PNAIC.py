@@ -105,14 +105,3 @@ class PNAIC(nn.Module):
         return tgt_dec, logit
 
 
-
-
-
-
-
-
-
-
-
-
-
