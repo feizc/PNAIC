@@ -10,7 +10,7 @@ Detection features are computed with the code provided by [1]. Please download t
 
 
 ## Acknowledgements
-This repository is based on [Meshed-Memory Transformer](https://github.com/aimagelab/meshed-memory-transformer).
+This repository is based on the framework of [Meshed-Memory Transformer](https://github.com/aimagelab/meshed-memory-transformer).
 
 
 #### References
