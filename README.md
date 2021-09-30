@@ -1,4 +1,4 @@
-# PNAIC: Partial Non-Autoregressive Image Captioning
+# PNAIC: Partially Non-Autoregressive Image Captioning
 
 This repository contains the reference code for the paper Partial Non-Autoregressive Image Captioning, 
 
